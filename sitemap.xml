@@ -1,206 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gangnam-web-marketing.pbn-builder.xyz/blog.html</loc>
-    <lastmod>2026-05-28</lastmod>
+    <loc>https://gangnam-web-marketing.pbn-builder.xyz/about.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gangnam-web-marketing.pbn-builder.xyz/about.html</loc>
-    <lastmod>2026-05-28</lastmod>
+    <loc>https://gangnam-web-marketing.pbn-builder.xyz/blog.html</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gangnam-web-marketing.pbn-builder.xyz/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260705-1124.html</loc>
-    <lastmod>2026-07-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0453.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0454.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0455.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0456.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0457.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0458.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0459.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0460.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0461.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0462.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0463.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0464.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0465.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0466.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260719-0467.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0151.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0152.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0153.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0154.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0155.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0419.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0420.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0421.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0422.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0423.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0424.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0425.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0426.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0427.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0428.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangnam-web-marketing.pbn-builder.xyz/posts/gemini-coverage-20260721-0429.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
