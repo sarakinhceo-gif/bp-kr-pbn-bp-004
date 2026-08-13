@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>글 목록 (2/2) · kr-pbn-bp-004</title>
+  <meta name="description" content="kr-pbn-bp-004에 올라온 글 목록입니다.">
+  <link rel="canonical" href="https://gangnam-web-marketing.pbn-builder.xyz/posts-2.html">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <style>
+ /* CSS DNA: Street Brutalist Theme: Acid Yellow Font: System Mono / Impact */
+ :root {
+ --color-bg: #FAFAFA;
+ --color-text: #000000;
+ --color-accent: #DFFF00; /* Acid Yellow */
+ --color-accent-hover: #CCEB00;
+ --color-border: #000000;
+ --font-display: 'Impact', 'Arial Black', sans-serif;
+ --font-body: 'Courier New', Courier, monospace;
+ --spacing-unit: 1rem;
+ --border-width: 3px;
+ }
+
+ * {
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+ }
+
+ html {
+ font-size: 16px;
+ scroll-behavior: smooth;
+ }
+
+ body {
+ background-color: var(--color-bg);
+ color: var(--color-text);
+ font-family: var(--font-body);
+ line-height: 1.6;
+ overflow-x: hidden;
+ border-left: var(--border-width) solid var(--color-border);
+ border-right: var(--border-width) solid var(--color-border);
+ max-width: 100vw;
+ }
+
+ a {
+ color: inherit;
+ text-decoration: none;
+ font-weight: bold;
+ }
+
+ a:hover {
+ background-color: var(--color-accent);
+ text-decoration: line-through;
+ }
+
+ /* Typography */
+ h1, h2, h3 {
+ font-family: var(--font-display);
+ text-transform: uppercase;
+ letter-spacing: -1px;
+ line-height: 1.1;
+ margin-bottom: var(--spacing-unit);
+ }
+
+ h1 {
+ font-size: clamp(2.5rem, 5vw, 5rem);
+ border-bottom: var(--border-width) solid var(--color-border);
+ padding: var(--spacing-unit) 0;
+ }
+
+ h2 {
+ font-size: clamp(1.8rem, 3vw, 3rem);
+ background-color: var(--color-text);
+ color: var(--color-bg);
+ padding: 0.5rem;
+ display: inline-block;
+ }
+
+ h3 {
+ font-size: 1.5rem;
+ }
+
+ p {
+ margin-bottom: 1.5rem;
+ font-size: 1.1rem;
+ }
+
+ /* Layout & Space */
+ .container {
+ max-width: 1200px;
+ margin: 0 auto;
+ padding: 0 var(--spacing-unit);
+ }
+
+ section {
+ padding: 4rem 0;
+ border-bottom: var(--border-width) solid var(--color-border);
+ }
+
+ /* Header & Nav */
+ header {
+ position: sticky;
+ top: 0;
+ background: var(--color-bg);
+ z-index: 100;
+ border-bottom: var(--border-width) solid var(--color-border);
+ padding: 1rem 0;
+ }
+
+ .nav-wrapper {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ }
+
+ .logo {
+ font-family: var(--font-display);
+ font-size: 1.5rem;
+ background: var(--color-text);
+ color: var(--color-accent);
+ padding: 0.2rem 0.5rem;
+ }
+
+ .nav-menu {
+ display: flex;
+ gap: 2rem;
+ list-style: none;
+ }
+
+ .nav-menu li a {
+ font-size: 1.2rem;
+ text-transform: uppercase;
+ }
+
+ .tel-link {
+ background-color: var(--color-accent);
+ padding: 0.5rem 1rem;
+ border: 2px solid var(--color-border);
+ font-weight: 900;
+ }
+
+ .tel-link:hover {
+ background-color: var(--color-text);
+ color: var(--color-accent);
+ text-decoration: none;
+ }
+
+ /* Hamburger */
+ .hamburger {
+ display: none;
+ font-size: 2rem;
+ cursor: pointer;
+ }
+
+ /* Cards Grid */
+ .grid-2 {
+ display: grid;
+ grid-template-columns: 1fr;
+ gap: 2rem;
+ }
+
+ .card {
+ border: var(--border-width) solid var(--color-border);
+ padding: 2rem;
+ background: #fff;
+ box-shadow: 10px 10px 0px var(--color-text);
+ transition: transform 0.2s;
+ }
+
+ .card:hover {
+ transform: translate(-5px, -5px);
+ box-shadow: 15px 15px 0px var(--color-accent);
+ }
+
+ .tag {
+ display: inline-block;
+ background: var(--color-text);
+ color: var(--color-bg);
+ padding: 0.2rem 0.5rem;
+ font-size: 0.8rem;
+ margin-bottom: 1rem;
+ font-family: var(--font-display);
+ }
+
+ /* FAQ */
+ .faq-item {
+ border: 2px solid var(--color-border);
+ margin-bottom: 1rem;
+ padding: 1rem;
+ }
+ .faq-q {
+ font-weight: bold;
+ font-size: 1.2rem;
+ margin-bottom: 0.5rem;
+ display: flex;
+ justify-content: space-between;
+ }
+ .faq-a {
+ font-size: 0.95rem;
+ }
+
+ /* Responsive */
+ @media (min-width: 768px) {
+ .grid-2 {
+ grid-template-columns: 1fr 1fr;
+ }
+ .hamburger {
+ display: none;
+ }
+ }
+
+ @media (max-width: 767px) {
+ .nav-menu {
+ display: none; /* Simplified for this snippet */
+ }
+ .hamburger {
+ display: block;
+ }
+ h1 {
+ font-size: 2.5rem;
+ }
+ .card {
+ box-shadow: 5px 5px 0px var(--color-text);
+ }
+ }
+ </style>
+  <meta property="og:title" content="글 목록 (2/2) · kr-pbn-bp-004">
+  <meta property="og:description" content="kr-pbn-bp-004에 올라온 글 목록입니다.">
+  <meta property="og:url" content="https://gangnam-web-marketing.pbn-builder.xyz/posts-2.html">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+</head>
+<body>
+  <div class="container">
+    <header>
+ <div class="container nav-wrapper">
+ <a href="#" class="logo">KR_DEVELOPER</a>
+ <div class="hamburger">☰</div>
+ <ul class="nav-menu">
+ <li><a href="#">프로젝트</a></li>
+ <li><a href="#">기술스택</a></li>
+ <li><a href="#">팀소개</a></li>
+ 
+ </ul>
+ </div>
+ </header>
+    <main>
+      <h1>글 목록</h1>
+      <p>전체 32개 · 2/2 페이지</p>
+      <ul class="post-list">
+      <li class="post-item">
+        <a class="post-item__link" href="posts/gemini-coverage-20260721-0155.html">강남 프로그램 개발 전문 역량 기반의 구글 인덱싱 속도 초고속 광회선 대역폭 최적화 기술</a>
+        <p class="post-item__summary">효율적인 웹 환경을 구축하기 위해서는 안정적인 서버 성능과 최적화된 네트워크 대역폭 확보가 선행되어야 합니다. 강남 프로그램 개발 전문 업체들은 프로젝트 초기부터 대용량 데이터 처리와 빠른 응답 속</p>
+      </li>
+      <li class="post-item">
+        <a class="post-item__link" href="posts/gemini-coverage-20260721-0419.html">강남 프로그램 개발 전문 공덕 셔츠룸 추천정보 및 구성 팁</a>
+        <p class="post-item__summary">공덕 지역에서 셔츠룸을 선택할 때는 인원 구성의 적절성, 시설의 독립성, 서비스의 질적 수준이 모두 충족되어야 합니다. 강남 프로그램 개발 전문 업체들이 인프라를 분석하듯, 여러분도 업소의 규모와 </p>
+      </li>
+      <li class="post-item">
+        <a class="post-item__link" href="posts/gemini-coverage-20260721-0420.html">강남 프로그램 개발 전문 연남 유흥 추천정보 및 업체 선정기준</a>
+        <p class="post-item__summary">여러분은 평소 유흥 장소를 선택할 때 어떤 기준을 가지고 업체를 선정하시나요? 단순히 분위기가 좋다는 말만 믿고 방문했다가 기대와 다른 경험을 했던 적은 없는지 묻고 싶습니다. 강남 프로그램 개발 </p>
+      </li>
+      <li class="post-item">
+        <a class="post-item__link" href="posts/gemini-coverage-20260721-0421.html">강남 프로그램 개발 전문 업체가 알려주는 마곡 가라오케 추천정보 선별 기준</a>
+        <p class="post-item__summary">디지털 환경에서 강남 프로그램 개발 전문 기술을 응용하면 온라인에 산재한 다양한 정보를 효율적으로 분류할 수 있습니다. 특히 특정 지역의 유흥 시설을 검색할 때 방대한 데이터 속에서 옥석을 가려내는</p>
+      </li>
+      <li class="post-item">
+        <a class="post-item__link" href="posts/gemini-coverage-20260721-0422.html">강남 프로그램 개발 전문 개발자가 분석한 마곡 유흥 비용 비교</a>
+        <p class="post-item__summary">데이터의 효율성을 따지는 강남 프로그램 개발 전문 분야의 사고방식은 복잡한 마곡 유흥 선택 상황에서도 유효합니다. 비슷한 서비스를 제공하는 두 업체를 놓고 고민할 때, 단순 가격비교보다는 가치 소비</p>
+      </li>
+      <li class="post-item">
+        <a class="post-item__link" href="posts/gemini-coverage-20260721-0423.html">강남 프로그램 개발 전문 솔루션으로 알아보는 합정 노래방 예약</a>
+        <p class="post-item__summary">복잡한 알고리즘을 설계하는 강남 프로그램 개발 전문 업체의 시각에서 보면, 일상적인 서비스 예약에도 흔히 반복되는 오류가 존재합니다. 합정 노래방을 이용하려는 대다수 이용자가 실패하는 지점은 정보의</p>
+      </li>
+      <li class="post-item">
+        <a class="post-item__link" href="posts/gemini-coverage-20260721-0424.html">강남 프로그램 개발 전문 개발팀의 연남 클럽 위치 체크리스트</a>
+        <p class="post-item__summary">강남 프로그램 개발 전문 개발팀은 시스템의 속도와 사용자 편의성을 높이기 위해 네트워크 환경을 가장 먼저 고려합니다. 마찬가지로 연남 클럽을 방문할 때도 장소의 위치와 물리적 접근성은 전체 경험의 </p>
+      </li>
+      <li class="post-item">
+        <a class="post-item__link" href="posts/gemini-coverage-20260721-0425.html">강남 프로그램 개발 전문 기술로 분석한 합정 셔츠룸 추천정보 가이드</a>
+        <p class="post-item__summary">오랜만에 만난 지인들과 약속을 잡고 장소를 고민하다가 예기치 않게 낯선 유흥 문화를 접하게 되는 경우가 있습니다. 특히 처음 방문하는 지역의 경우에는 어떤 곳을 선택해야 할지 막막한 마음이 앞서기 </p>
+      </li>
+      <li class="post-item">
+        <a class="post-item__link" href="posts/gemini-coverage-20260721-0426.html">강남 프로그램 개발 전문 관점으로 보는 공덕 가라오케 추천정보 활용법</a>
+        <p class="post-item__summary">가라오케에 대해 흔히들 비싼 비용을 지불해야만 양질의 서비스를 받을 수 있다는 오해를 하곤 합니다. 하지만 시스템의 효율성을 이해한다면 합리적인 수준에서 충분히 만족스러운 시간을 보낼 수 있습니다.</p>
+      </li>
+      <li class="post-item">
+        <a class="post-item__link" href="posts/gemini-coverage-20260721-0427.html">강남 프로그램 개발 전문 시선으로 정리한 상수 마사지 추천정보 안내</a>
+        <p class="post-item__summary">상수 지역에서 만족스러운 마사지 서비스를 받기 위해서는 몇 가지 충족 조건을 반드시 확인해야 합니다. 청결한 시설 관리는 물론 테라피스트의 숙련도와 운영 방식의 체계성이 뒷받침되어야 하기 때문입니다</p>
+      </li>
+      <li class="post-item">
+        <a class="post-item__link" href="posts/gemini-coverage-20260721-0428.html">강남 프로그램 개발 전문 기업이 분석한 망원 노래방 추천정보 기준</a>
+        <p class="post-item__summary">독자 여러분은 노래방을 선택할 때 어떤 요소를 가장 중요하게 고려하시나요? 단순히 음향 시설만 좋으면 충분하다고 생각하시는지, 아니면 서비스와 분위기까지 따져보시는지 궁금합니다. 강남 프로그램 개발</p>
+      </li>
+      <li class="post-item">
+        <a class="post-item__link" href="posts/gemini-coverage-20260721-0429.html">강남 프로그램 개발 전문 업체가 알려주는 홍대 노래방 추천정보 선정 기준</a>
+        <p class="post-item__summary">최근 강남 프로그램 개발 전문 기업의 효율적인 데이터 분석 기법을 벤치마킹하여 홍대 지역의 유흥 시설을 선별하는 사용자들이 늘고 있습니다. 홍대는 워낙 업장이 밀집되어 있어 정보의 파편화가 심하며,</p>
+      </li>
+      </ul>
+    <nav class="pager">
+      <a class="pager__link" href="posts.html">1</a>
+      <span class="pager__current">2</span>
+    </nav>
+    </main>
+  </div>
+</body>
+</html>
